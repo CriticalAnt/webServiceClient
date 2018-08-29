@@ -7,7 +7,11 @@ public class Branch {
         this.hello = hello;
     }
 
+
     public void toBug() {
+    }
+    public void toFixBug2() {
+
         
     }
 }
