@@ -27,8 +27,13 @@
       <file leaf-file-name="Weather.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/example/Weather.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="432">
               <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+=======
+            <state relative-caret-position="528">
+              <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+>>>>>>> branch1
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -655,12 +660,16 @@
       <updated>1535450584558</updated>
       <workItem from="1535450586360" duration="4810000" />
       <workItem from="1535513316317" duration="837000" />
-      <workItem from="1535515379831" duration="23000" />
+      <workItem from="1535515379831" duration="630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="5674000" />
+=======
+    <option name="totallyTimeSpent" value="6279000" />
+>>>>>>> branch1
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1064,8 +1073,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/example/Weather.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="480">
           <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+=======
+        <state relative-caret-position="432">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+>>>>>>> branch1
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -2212,8 +2226,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/example/Weather.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="432">
           <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+=======
+        <state relative-caret-position="528">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+>>>>>>> branch1
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
