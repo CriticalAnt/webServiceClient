@@ -6,4 +6,8 @@ public class Branch {
     public Branch(String hello) {
         this.hello = hello;
     }
+
+    public void toFixBug2() {
+        
+    }
 }
