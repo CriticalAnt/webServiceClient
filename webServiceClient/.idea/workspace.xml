@@ -27,13 +27,8 @@
       <file leaf-file-name="Weather.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/example/Weather.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
             <state relative-caret-position="432">
               <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-=======
-            <state relative-caret-position="528">
-              <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
->>>>>>> branch1
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
